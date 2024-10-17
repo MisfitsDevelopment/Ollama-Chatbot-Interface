@@ -49,3 +49,6 @@ The chatbot uses the Ollama API to generate responses. Ensure that the Ollama AP
 ## License
 
 This project is licensed under the MIT License.
+
+
+![GaHgVWHXEAEPXhm](https://github.com/user-attachments/assets/d83f7b77-818d-4476-8779-4c2d18cf8075)
