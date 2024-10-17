@@ -15,22 +15,25 @@ This project is a frontend chatbot interface using React and Next.js, designed t
 - Node.js (v14.x or later)
 - Yarn or npm (package manager)
 - Ollama API running locally on `http://localhost:11434`
+- Download Ollama here `https://ollama.com/` 
+- Edit file `src/pages/api/chat.ts` 
+- Replace model at line *23* - `model: "gemma2:latest"` with your model
 
 ## Installation
 
 1. Clone the repository:
 
-` git clone https://github.com/your-username/ollama-chatbot.git`
-
-`cd ollama-chatbot`
+``` git clone https://github.com/MisfitsDevelopment/Ollama-Chatbot-Interface.git ```
+``` cd Ollama-Chatbot-Interface ```
 
 2. Install the dependencies:
 
-`yarn install or npm install`
+``` yarn install or npm install ```
 
 3. Start the development server:
 
-`yarn dev or npm run dev`
+``` yarn dev or npm run dev ```
+
 
 4. Open your browser and navigate to `http://localhost:3000`.
 
